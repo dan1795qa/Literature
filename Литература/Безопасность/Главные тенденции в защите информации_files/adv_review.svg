@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="36" cy="36" r="36"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-83.000000, -249.000000)">
+            <g id="Group-2" transform="translate(83.000000, 249.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Oval" fill="#198BFF" xlink:href="#path-1"></use>
+                <rect id="Rectangle-10" fill="#B7EB81" mask="url(#mask-2)" x="0" y="0" width="36" height="36"></rect>
+                <path d="M21.1550686,48.9271465 C23.3642076,48.9271465 25.1550686,50.7180075 25.1550686,52.9271465 C25.1550686,55.1362855 23.3642076,56.9271465 21.1550686,56.9271465 L21.1550686,71.8388348 L-4.30077554,46.3829906 L21.1550686,20.9271465 L21.1550686,48.9271465 Z" id="Combined-Shape" fill="#FF545B" mask="url(#mask-2)" transform="translate(10.427147, 46.382991) rotate(-315.000000) translate(-10.427147, -46.382991) "></path>
+                <circle id="Oval-3" fill="#198BFF" mask="url(#mask-2)" cx="36" cy="4" r="4"></circle>
+                <circle id="Oval-3-Copy" fill="#B7EB81" mask="url(#mask-2)" cx="4" cy="36" r="4"></circle>
+                <circle id="Oval-2" fill="#FFFFFF" mask="url(#mask-2)" cx="36" cy="36" r="28"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

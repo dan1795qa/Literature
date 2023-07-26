@@ -1,0 +1,7 @@
+var OX_23c0b5c1 = '';
+OX_23c0b5c1 += "<"+"a href=\'https://zen.yandex.ru/tadviser\'  target=\'_blank\'>Дзен.Яндекс: 2.8 тыс<"+"/a>\n";
+OX_23c0b5c1 += "<"+"a href=\'https://t.me/tadviser\'  target=\'_blank\'>Telegram: >7.5 тыс<"+"/a>\n";
+OX_23c0b5c1 += "<"+"a href=\'https://vk.com/tadviser\'  target=\'_blank\'>ВКонтакте: >5.1 тыс<"+"/a>\n";
+OX_23c0b5c1 += "<"+"a href=\'https://www.youtube.com/channel/UCHCePn4JyYAu-w9F5mXyfbA\'  target=\'_blank\'>Youtube: >2.8 тыс<"+"/a>\n";
+OX_23c0b5c1 += "<"+"a href=\'https://twitter.com/TAdviser\'  target=\'_blank\'>Twitter: 1.2 тыс<"+"/a><"+"div id=\'beacon_fd5f6e7113\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'https://www.tadviser.ru/openx2/www/delivery/lg.php?bannerid=2484&amp;campaignid=4&amp;zoneid=49&amp;loc=1&amp;referer=https%3A%2F%2Fwww.tadviser.ru%2Findex.php%2F%25D0%25A1%25D1%2582%25D0%25B0%25D1%2582%25D1%258C%25D1%258F%3A%25D0%2593%25D0%25BB%25D0%25B0%25D0%25B2%25D0%25BD%25D1%258B%25D0%25B5_%25D1%2582%25D0%25B5%25D0%25BD%25D0%25B4%25D0%25B5%25D0%25BD%25D1%2586%25D0%25B8%25D0%25B8_%25D0%25B2_%25D0%25B7%25D0%25B0%25D1%2589%25D0%25B8%25D1%2582%25D0%25B5_%25D0%25B8%25D0%25BD%25D1%2584%25D0%25BE%25D1%2580%25D0%25BC%25D0%25B0%25D1%2586%25D0%25B8%25D0%25B8&amp;cb=fd5f6e7113\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div><"+"script type=\'text/javascript\'>document.context=\'cDoyMzg3I2I6MzE1NSNiOjU5MzQjYjozNzA4I2I6NTkwNXw=\'; <"+"/script>\n";
+document.write(OX_23c0b5c1);
